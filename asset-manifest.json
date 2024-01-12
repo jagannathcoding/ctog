@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colortograyscale/static/css/main.e6c13ad2.css",
+    "main.js": "/colortograyscale/static/js/main.10677c9c.js",
+    "static/js/787.d4aba7ab.chunk.js": "/colortograyscale/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/colortograyscale/index.html",
+    "main.e6c13ad2.css.map": "/colortograyscale/static/css/main.e6c13ad2.css.map",
+    "main.10677c9c.js.map": "/colortograyscale/static/js/main.10677c9c.js.map",
+    "787.d4aba7ab.chunk.js.map": "/colortograyscale/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.10677c9c.js"
+  ]
+}
